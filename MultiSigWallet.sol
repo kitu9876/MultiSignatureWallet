@@ -259,4 +259,4 @@ contract MultiPartyWallet {
         minPercent = _newMinPercent;
     }
 }
-Footer
+
